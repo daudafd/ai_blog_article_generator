@@ -1,6 +1,6 @@
 annotated-types==0.7.0
 anyio==4.4.0
-apturl==0.5.2
+# apturl==0.5.2
 arrow==1.2.1
 asgiref==3.7.2
 assemblyai==0.27.0
@@ -8,24 +8,26 @@ attrs==21.2.0
 bcrypt==3.2.0
 beautifulsoup4==4.10.0
 blinker==1.4
-Brlapi==0.8.3
+# Brlapi==0.8.3
 cachetools==5.0.0
 certifi==2020.6.20
 chardet==4.0.0
 charset-normalizer==2.0.6
 click==8.0.3
 colorama==0.4.4
-command-not-found==0.3
+# command-not-found==0.3
 cryptography==3.4.8
-cupshelpers==1.0
+# cupshelpers==1.0
 dbus-python==1.2.18
 decorator==4.4.2
-defer==1.0.6
+# defer==1.0.6
 defusedxml==0.7.1
 distlib==0.3.4
 distro==1.7.0
 distro-info==1.1+ubuntu0.2
+dj-database-url==2.2.0
 Django==5.0.6
+django-crispy-forms==2.2
 django-filter==23.3
 djangorestframework==3.14.0
 docker==5.0.3
